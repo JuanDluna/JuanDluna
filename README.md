@@ -1,41 +1,70 @@
-<h1 align="center">Juan D. Luna</h1>
-<h3 align="center">Fullstack & Mobile Engineer · Freelance Developer</h3>
+<h1 align="center">Juan Pablo de Luna de la Serna</h1>
+<h3 align="center">Computer Systems Engineer · Software & Automation Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fullstack-Web-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Software Engineer with a degree in Computer Systems Engineering, specializing in **fullstack web** and **cross-platform mobile** development. I architect and ship end-to-end products — from relational database schema to pixel-perfect UI — with a strong emphasis on clean code, scalable architecture, and developer experience.
+Computer Systems Engineer graduated from **Universidad Autónoma de Aguascalientes (UAA)**. Passionate about software architecture, compilers, data system automation, and backend development. 
 
-Available for **freelance projects** and **remote collaborations**.
+Experienced in building end-to-end solutions: from low-level system design and relational database optimization to real-time mobile applications and custom local network deployments (Raspberry Pi, mDNS, Linux environments).
 
-## Tech Stack
+- 🔭 Currently building: High-performance data pipelines and backend systems.
+- 🛠️ Core Focus: Python Automation, Node.js REST APIs, Flutter, and Systems Engineering.
+- 📫 How to reach me: [pablo.dluna@hotmail.com](mailto:pablo.dluna@hotmail.com) | [LinkedIn](https://linkedin.com/in/juan-dluna)
+
+---
+
+## 🛠️ Tech Stack
 
 | Domain | Technologies |
 |--------|-------------|
-| **Frontend** | React, TypeScript, HTML5, CSS3, Tailwind |
-| **Mobile** | React Native, Expo |
-| **Backend** | Node.js, Express, REST APIs |
-| **Database** | PostgreSQL, MySQL |
-| **DevOps** | Docker, GitHub Actions, Linux |
+| **Languages** | Python, JavaScript, TypeScript, Java, C++, SQL, Bash |
+| **Backend & APIs** | Node.js, Express, RESTful APIs, Spring Boot |
+| **Mobile & Web** | Flutter, Dart, Angular, HTML5/CSS3 |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase Firestore |
+| **DevOps & Tools** | Linux (Ubuntu Server), Docker, Git, GitHub Actions (CI/CD), Postman |
 
-## Featured Projects
+---
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [fullstack-capstone-project](https://github.com/JuanDluna/fullstack-capstone-project) | End-to-end web application with auth, CI/CD and Docker | React · Node.js · PostgreSQL |
-| [cross-platform-mobile-app](https://github.com/JuanDluna/cross-platform-mobile-app) | Offline-first mobile app for iOS & Android | React Native · Expo |
-| [inventory-management-api](https://github.com/JuanDluna/inventory-management-api) | REST API with JWT auth and Swagger docs | Node.js · Express · PostgreSQL |
-| [ecommerce-storefront-ui](https://github.com/JuanDluna/ecommerce-storefront-ui) | E-commerce frontend with cart and checkout | React · TypeScript |
+## 🚀 Featured Projects
 
-## GitHub Stats
+### 🛠️ Multi-Stage Compiler with Custom IDE
+*Multi-stage compilation engine built in Python with a desktop IDE using PyQt5.*
+- Implemented **lexical, syntactic (AST generation), and semantic analysis** with static type checking and error reporting.
+- Features dynamic symbol tables, intermediate code generation (TAC), and visual AST rendering.
+- **Tech Stack:** `Python` · `PyQt5` · `Compilers & AST`
+
+### 🚿 WashFlow — Administrative & Real-Time POS Platform
+*Multitenant architecture for operations, inventory, and payroll management.*
+- Designed a normalized **MySQL** database featuring **Stored Procedures** with row-level locking to solve data concurrency.
+- Built a **Node.js** backend with **WebSockets** for event-driven, real-time updates consumed by a **Flutter** cross-platform app.
+- Deployed locally on a **Raspberry Pi (Ubuntu Server)** using **Avahi (mDNS)** for zero-configuration, plug-and-play local network access (`.local`).
+- **Tech Stack:** `Flutter` · `Node.js` · `MySQL` · `WebSockets` · `Raspberry Pi` · `Ubuntu`
+
+### 🧪 VB-Lin — Asset & Equipment Loan Management System
+*Decoupled microservices architecture for university asset management.*
+- Engineered a REST API backend with **Node.js**, **MongoDB**, and push notifications via **Firebase Cloud Messaging**.
+- Integrated automated **CI/CD pipelines using GitHub Actions** and built a multiplatform **Flutter** client.
+- **Tech Stack:** `Node.js` · `MongoDB` · `Flutter` · `GitHub Actions` · `Firebase`
+
+### ⚡ Python Data Pipelines & Automation
+*Automated ETL and web scraping workflows for internal operations.*
+- Automated PDF catalog extraction using OCR tools, transforming unstructured data into structured JSON schemas via LLMs.
+- Built high-speed **Pandas** data pipelines to format, validate, and batch-upload product databases to WooCommerce.
+- **Tech Stack:** `Python` · `Pandas` · `OCR` · `ETL` · `REST APIs`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanDluna&show_icons=true&theme=dark&hide_border=true" />
@@ -44,5 +73,5 @@ Available for **freelance projects** and **remote collaborations**.
 ---
 
 <p align="center">
-  <i>Open to freelance opportunities · Let's build something great together.</i>
+  <i>"Building robust, efficient, and scalable software from scratch."</i>
 </p>
