@@ -62,15 +62,6 @@ Experienced in building end-to-end solutions: from low-level system design and r
 - Built with `dialog` for terminal UI widgets, incorporating `sed` and `grep` for in-place string replacements, search highlighting, and line buffer management.
 - **Tech Stack:** `Bash` · `Linux` · `TUI` · `Unix Utilities`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanDluna&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>"Building robust, efficient, and scalable software from scratch."</i>
