@@ -57,7 +57,7 @@ Experienced in building end-to-end solutions: from low-level system design and r
 - Integrated automated **CI/CD pipelines using GitHub Actions** and built a multiplatform **Flutter** client.
 - **Tech Stack:** `Node.js` · `MongoDB` · `Flutter` · `GitHub Actions` · `Firebase`
 
-### 🖥️ [Bash Interactive Text Editor (TUI)](https://github.com/JuanDluna/bash-text-editor)
+### 🖥️ [Bash Interactive Text Editor (TUI)](https://github.com/JuanDluna/Bblin)
 *Interactive TUI text editor leveraging Unix utilities to edit and manipulate files directly from the Linux terminal.*
 - Built with `dialog` for terminal UI widgets, incorporating `sed` and `grep` for in-place string replacements, search highlighting, and line buffer management.
 - **Tech Stack:** `Bash` · `Linux` · `TUI` · `Unix Utilities`
