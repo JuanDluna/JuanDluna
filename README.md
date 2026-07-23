@@ -37,7 +37,7 @@ Experienced in building end-to-end solutions: from low-level system design and r
 
 ## 🚀 Featured Projects
 
-### 🛠️ Multi-Stage Compiler with Custom IDE
+### 🛠️ [Multi-Stage Compiler with Custom IDE](https://github.com/JuanDluna/IDE-Compiladores)
 *Multi-stage compilation engine built in Python with a desktop IDE using PyQt5.*
 - Implemented **lexical, syntactic (AST generation), and semantic analysis** with static type checking and error reporting.
 - Features dynamic symbol tables, intermediate code generation (TAC), and visual AST rendering.
@@ -49,18 +49,18 @@ Experienced in building end-to-end solutions: from low-level system design and r
 - Built a **Node.js** backend with **WebSockets** for event-driven, real-time updates consumed by a **Flutter** cross-platform app.
 - Deployed locally on a **Raspberry Pi (Ubuntu Server)** using **Avahi (mDNS)** for zero-configuration, plug-and-play local network access (`.local`).
 - **Tech Stack:** `Flutter` · `Node.js` · `MySQL` · `WebSockets` · `Raspberry Pi` · `Ubuntu`
+- 🔒 *Private Repository (Commercial Client Project / NDA)*
 
-### 🧪 VB-Lin — Asset & Equipment Loan Management System
+### 🧪 [VB-Lin — Asset & Equipment Loan Management System](https://github.com/urielulises-a/Equipment-Management-System)
 *Decoupled microservices architecture for university asset management.*
 - Engineered a REST API backend with **Node.js**, **MongoDB**, and push notifications via **Firebase Cloud Messaging**.
 - Integrated automated **CI/CD pipelines using GitHub Actions** and built a multiplatform **Flutter** client.
 - **Tech Stack:** `Node.js` · `MongoDB` · `Flutter` · `GitHub Actions` · `Firebase`
 
-### ⚡ Python Data Pipelines & Automation
-*Automated ETL and web scraping workflows for internal operations.*
-- Automated PDF catalog extraction using OCR tools, transforming unstructured data into structured JSON schemas via LLMs.
-- Built high-speed **Pandas** data pipelines to format, validate, and batch-upload product databases to WooCommerce.
-- **Tech Stack:** `Python` · `Pandas` · `OCR` · `ETL` · `REST APIs`
+### 🖥️ [Bash Interactive Text Editor (TUI)](https://github.com/JuanDluna/bash-text-editor)
+*Interactive TUI text editor leveraging Unix utilities to edit and manipulate files directly from the Linux terminal.*
+- Built with `dialog` for terminal UI widgets, incorporating `sed` and `grep` for in-place string replacements, search highlighting, and line buffer management.
+- **Tech Stack:** `Bash` · `Linux` · `TUI` · `Unix Utilities`
 
 ---
 
